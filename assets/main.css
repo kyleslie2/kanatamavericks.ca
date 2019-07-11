@@ -1,0 +1,57 @@
+
+ body {
+     background-color: #0B498D;
+ }
+
+
+h1{
+color:white;
+}
+
+img {
+    opacity: 0.4;
+}
+
+img:hover {
+    opacity: 1.4;
+}
+
+#home{
+    float:left;
+    display: inline;
+}
+#main-title{
+    position:relative;
+    display: inline-block;
+    width:70%;
+    margin: 3% 10% 0 10%;
+
+}
+
+.navButtons {
+    background-color: yellow;
+    color:yellow;
+    width: 98%;
+    margin:1rem 1% 0 1%;
+    border-radius: 5px;
+    border-bottom-color: black;
+
+    /* float:right; */
+}
+
+.navButtons2 {
+    background-color: yellow;
+    color: yellow;
+    width: 98%;
+    margin: 1rem 1% 0 1%;
+    border-radius: 5px;
+    border-bottom-color: black;
+
+    /* float:right; */
+}
+
+@media all and (max-width: 1080px) {
+    body {
+        background-color: green;
+    }
+}
