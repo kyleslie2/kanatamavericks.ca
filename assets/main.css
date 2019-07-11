@@ -39,19 +39,10 @@ img:hover {
     /* float:right; */
 }
 
-.navButtons2 {
-    background-color: yellow;
-    color: yellow;
-    width: 98%;
-    margin: 1rem 1% 0 1%;
-    border-radius: 5px;
-    border-bottom-color: black;
 
-    /* float:right; */
-}
 
-@media all and (max-width: 1080px) {
+/* @media all and (max-width: 1080px) {
     body {
         background-color: green;
     }
-}
+} */
