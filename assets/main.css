@@ -50,13 +50,21 @@ i:hover {
     /* float:right; */
 }
 
-#index_text{
+.index_text{
     color:white;
     margin-top:10px;
+}
+
+.content_text{
+    font-size: 150%;
+}
+.paragraph{
+    margin-bottom:2rem;
 }
 .mainImg{
     padding:1rem;
 }
+
 
 /* @media all and (max-width: 1080px) {
     body {
