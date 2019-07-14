@@ -1,6 +1,7 @@
 
 html body {
      background-color: #0B498D;
+     width:100%;
  }
 
 
@@ -32,10 +33,13 @@ i:hover {
     /* align-content: center;
     align-self: center; */
     position:relative;
-    display: inline;
-    width:70%;
+    display: inline-block;
+    /* width:70%; */
     margin: 1rem 0 0 15%;
-    padding-left:10%;
+    /* padding-left:10%; */
+    font-family: 'DM Serif Display',
+    serif;
+
 
 }
 
@@ -53,10 +57,23 @@ i:hover {
 .index_text{
     color:white;
     margin-top:10px;
+font-family: 'DM Sans',
+sans-serif;
+
+}
+
+.header_text{
+      color:white;
+      margin-top:10px;
+    font-family: 'DM Serif Display',
+    serif;
 }
 
 .content_text{
     font-size: 150%;
+font-family: 'DM Sans',
+sans-serif;
+
 }
 .paragraph{
     margin-bottom:2rem;
@@ -66,8 +83,31 @@ i:hover {
 }
 
 
-/* @media all and (max-width: 1080px) {
-    body {
-        background-color: green;
-    }
-} */
+
+.who_we_are{
+    font-size: 120%;
+    font-family: 'DM Sans',
+        sans-serif;
+}
+.meet_the_coaches {
+    font-size: 120%;
+    font-family: 'DM Sans',
+        sans-serif;
+}
+
+@media all and (max-width: 1080px) {
+   #runner_icon {
+       margin: 0 0 0 0;
+       display: inline-block;
+   }
+
+   #main-title {
+           font-size: 150%;
+       position: relative;
+       display: inline;
+       /* width: 70%; */
+       margin: 0 0 0 0;
+       font-family: 'DM Serif Display',
+           serif;
+   }
+}
