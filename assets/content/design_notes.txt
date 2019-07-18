@@ -1,0 +1,26 @@
+
+boston marathon colours\
+- yellow banner, blue background, white text/ black text?\
+- landing page:\
+- kanata mavericks est. 2019 banner at the top\
+space for a photo (of kids)\
+\
+basic by july 20th\
+}
+
+ClientID:
+992589421949-4ierq4j6s4da66d0joqsjklbud9n7ofp.apps.googleusercontent.com
+Secret:
+xQnvCOa_Gjmi_LFqMgRJ6AZ5
+API key:
+AIzaSyDfzi8s50HqS-AaTlsWvnlD3mLBsvRAwUQ
+
+
+
+Testimonials:
+“The feedback [from my son] was simple but so encouraging - he enjoyed his first practice so much that he can't wait for the next one. He loves being involved in something so fun!” - Michelle H. (Parent)
+
+“Allie has been running with Vanessa for a few months now. I have seen such a passion growing in her. This past weekend she ran her first 5K (many more to come I’m certain). If it wasn’t for the constant support and encouragement she receives from these amazing teachers, who dedicate their time so selflessly, who knows if she would have ever developed what will I’m sure will be a lifelong love of running. Allie is so eager to continue running with her team. I couldn’t be more grateful for the support she is receiving. These coaches are doing something very special here!” - Sarah R. (Parent)
+
+“[My daughter] really loved it today and came home super enthusiastic about running.” - Leslie M (Parent)
+

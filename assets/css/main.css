@@ -2646,7 +2646,7 @@ body {
     #heading .testimonials .content .credit strong {
       color: #345cb3; }
   #heading:before {
-    background: linear-gradient(135deg, #345cb3 0%, #111111 74%);
+    background: linear-gradient(135deg, #FDDE33 0%, #111111 74%);
     content: ' ';
     display: block;
     height: 100%;
