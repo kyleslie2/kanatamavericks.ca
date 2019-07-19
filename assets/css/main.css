@@ -2828,10 +2828,25 @@ body.is-menu-visible #menu {
 .scheduleDivs{
 	display:flex;
 }
+
+#time{
+ flex: 0 0 65%;
+}
+#location{
+flex: 1;
+}
   @media screen and (max-width: 1236px) {
-    .scheduleDivs {
-       display:block;
-	  } 
+.scheduleDivs {
+	display:block;
+  } 
+#time{
+display:block;
+	flex:none;
+  }
+  #location{
+display:block;
+	flex:none;
+  }
 }
 
 
