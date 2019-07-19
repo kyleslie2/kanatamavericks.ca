@@ -2826,6 +2826,12 @@ body.is-menu-visible #menu {
   visibility: visible; }
 
 .scheduleDivs{
-	min-width:762px;
+	display:flex;
 }
+  @media screen and (max-width: 1236px) {
+    .scheduleDivs {
+       display:block;
+	  } 
+}
+
 
