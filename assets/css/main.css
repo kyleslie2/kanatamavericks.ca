@@ -2865,6 +2865,13 @@ display:block;
 #vanessa_pic{
 max-width: 150px;
 max-height:280px;
+	margin-left:10%;
 }
+#mel_pic{
+max-width: 150px;
+max-height:280px;
+	margin-right:10%;
+}
+
 
 
