@@ -2838,6 +2838,7 @@ max-width:1000px;
 #location{
 flex: 1;
 max-width:1000px;
+	margin-top:5rem;
 }
   @media screen and (max-width: 1236px) {
 .scheduleDivs {
