@@ -2831,9 +2831,11 @@ body.is-menu-visible #menu {
 
 #time{
  flex: 0 0 65%;
+max-width:1200px;
 }
 #location{
 flex: 1;
+max-width:1200px;
 }
   @media screen and (max-width: 1236px) {
 .scheduleDivs {
