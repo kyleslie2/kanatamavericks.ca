@@ -2840,6 +2840,9 @@ flex: 1;
 max-width:1000px;
 	margin-top:5rem;
 }
+#gmap{
+max-width:700px;	
+}
   @media screen and (max-width: 1236px) {
 .scheduleDivs {
 	display:block;
