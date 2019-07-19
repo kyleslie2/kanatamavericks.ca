@@ -2843,6 +2843,9 @@ max-width:1000px;
 #gmap{
 max-width:700px;	
 }
+#calImg{
+max-width:1000px;
+}
   @media screen and (max-width: 1236px) {
 .scheduleDivs {
 	display:block;
