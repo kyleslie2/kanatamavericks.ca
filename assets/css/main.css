@@ -2824,3 +2824,54 @@ body.is-menu-visible #menu {
   transform: translateX(0);
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
+
+.scheduleDivs{
+	display:flex;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+#time{
+ flex: 0 0 65%;
+max-width:1000px;
+}
+#location{
+flex: 1;
+max-width:1000px;
+	margin-top:5rem;
+}
+#gmap{
+max-width:700px;	
+}
+#calImg{
+max-width:1000px;
+/* min-width:650px; */
+}
+  @media screen and (max-width: 1236px) {
+.scheduleDivs {
+	display:block;
+  } 
+#time{
+display:block;
+	flex:none;
+  }
+  #location{
+display:block;
+	flex:none;
+  }
+}
+
+
+#vanessa_pic{
+max-width: 150px;
+max-height:280px;
+	margin-left:10%;
+}
+#mel_pic{
+max-width: 150px;
+max-height:280px;
+	margin-right:10%;
+}
+
+
+
